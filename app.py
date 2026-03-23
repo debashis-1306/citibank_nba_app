@@ -377,4 +377,4 @@ The recommendation engine selected **"{top_offer[0]}"** through a 5-layer decisi
 
 # ─── Footer ──────────────────────────────────────────────────────────────────
 st.divider()
-st.caption("🔒 Demo prototype | Citi × TCS AI Immersion 2025 | Data is synthetic and for demonstration purposes only.")
+st.caption("🔒 Demo prototype | Citi Bank and TCS AI Immersion 2026 | Data is synthetic and for demonstration purposes only.")
